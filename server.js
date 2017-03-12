@@ -14,8 +14,12 @@ const http = require('http');
 
 const server = express();
 
+server.set('view engine', 'ejs');
+
 server.get('/', (req, res) => {
-    res.send('Hello Express\n');
+    res.render('index', {
+        content : 'Pinterest Shopping List'
+    });
 });
 
 server.use(express.static('public'));
