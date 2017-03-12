@@ -1,7 +1,6 @@
-**Wishlist Watcher**
+**Pinterest Shopping List**
 
-This application will watch your Amazon wishlist and send you an alert if<br>
-an item in your list goes on sale.
+This application will compile a shopping list from pins saved to your board.
 
 _Dependencies_<br>
 ```
