@@ -1,5 +1,5 @@
 {
-  "name": "wishlist-watcher",
+  "name": "Pinterest-Shopping-List",
   "version": "0.0.1",
   "description": "An application that will watch your Amazon wishlist and inform you of lower prices.",
   "main": "index.js",
