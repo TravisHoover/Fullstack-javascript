@@ -1,8 +1,8 @@
 {
   "name": "Pinterest-Shopping-List",
   "version": "0.0.1",
-  "description": "An application that will watch your Amazon wishlist and inform you of lower prices.",
-  "main": "index.js",
+  "description": "An application that will compile a grocery list from your Pinterest recipes.",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon --exec babel-node server.js --ignore public/",
     "dev": "webpack -wd"

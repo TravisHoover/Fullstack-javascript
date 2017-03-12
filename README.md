@@ -1,15 +1,8 @@
-**Pinterest Shopping List**
+**Pinterest Shopping List** [![Build Status](https://travis-ci.org/TravisHoover/Pinterest-Shopping-List.svg?branch=master)](https://travis-ci.org/TravisHoover/Pinterest-Shopping-List)
 
-This application will compile a shopping list from pins saved to your board.
+An application that will compile a grocery list from your Pinterest recipes.
 
-_Dependencies_<br>
-```
-npm install --save express
-npm install -S mongodb
-npm install -S react react-dom
-npm install --save-dev webpack
-npm install -D babel-cli babel-loader babel-preset-es2015 babel-preset-stage-2 babel-preset-react
-npm install -D nodemon
-npm install -D eslint eslint-plugin-react babel-eslint
-npm install -S ejs
-```
+_Tech Stack_<br>
+This is a learning experience for me, so this will likely change <br>
+throughout development, but I will be using a MongoDB database, <br>
+Node.js for my API and web server, and React.js for the front end.
