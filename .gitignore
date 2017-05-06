@@ -110,3 +110,4 @@ typings/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+public/bundle.js
