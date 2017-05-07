@@ -111,3 +111,4 @@ typings/
 !.vscode/extensions.json
 
 public/bundle.js
+!/src/testData.json

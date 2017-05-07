@@ -6,3 +6,10 @@ _Tech Stack_<br>
 This is a learning experience for me, so this will likely change <br>
 throughout development, but I will be using a MongoDB database, <br>
 Node.js for my API and web server, and React.js for the front end.
+
+
+#### Running the app ####
+```
+$ npm run dev
+$ npm start
+```
