@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './header';
-import boardPreview from './boardPreview';
+import BoardPreview from './boardPreview';
 
 class App extends React.Component {
     state = {
@@ -13,7 +13,7 @@ class App extends React.Component {
                 <Header message={this.state.pageHeader}/>
                 <div>
                     {this.props.boards.map(board =>
-                        <boardPreview key={board.id} {...board} />
+                        <BoardPreview key={board.boardId} {...board} />
                     )}
                 </div>
             </div>

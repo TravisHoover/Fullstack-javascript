@@ -3,10 +3,10 @@ import React from 'react';
 const boardPreview = (board) => (
     <div className="boardPreview">
         <div>
-            {board.id}
+            {board.boardId}
         </div>
         <div>
-            {board.name}
+            {board.boardName}
         </div>
     </div>
 );

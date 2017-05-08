@@ -1,12 +1,12 @@
 {
-    "boards": [
+  "boards": [
     {
-      "id": 1,
-      "name": "raspberry-pi"
+      "boardId": 1,
+      "boardName": "raspberry-pi"
     },
     {
-      "id": 2,
-      "name": "recipes"
+      "boardId": 2,
+      "boardName": "recipes"
     }
-]
+  ]
 }
